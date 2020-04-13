@@ -1,0 +1,2 @@
+# vitualclass
+virtual class
